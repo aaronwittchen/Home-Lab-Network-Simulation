@@ -34,9 +34,6 @@ ENV/
 .DS_Store
 
 # Project specific
-notes.md
-steps.md
-donesteps.md
 
 # Logs
 *.log
