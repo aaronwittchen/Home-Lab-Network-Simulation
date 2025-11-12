@@ -290,8 +290,6 @@ Namespaces provide isolation similar to containers or VRFs without requiring a h
 | FRR                | Dynamic routing         | Cisco IOS, Juniper JunOS |
 | tcpdump            | Packet analysis         | Wireshark, hardware taps |
 
-### Skills Developed
-
 * Routing and subnetting
 * VLAN and zone segmentation
 * Firewall design and rule management

@@ -54,3 +54,7 @@ htmlcov/
 # System Files
 .DS_Store
 Thumbs.db
+
+donesteps.md
+stepsdocs.md
+steps.md
