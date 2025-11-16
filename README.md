@@ -331,7 +331,6 @@ Namespaces provide isolation similar to containers or VRFs without requiring a h
 
 This project is open source and intended for educational and personal use.
 
----
 
 ## Project Summary
 
